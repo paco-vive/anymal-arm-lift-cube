@@ -28,6 +28,12 @@ flowchart LR
   AG["agents/: PPO config"] --> P
 ```
 
+## The robot
+
+![Me with the ANYmal D at CROB](media/foto_yo_con_robot.jpg)
+
+*Me with the ANYmal D at the USP Center for Robotics (CROB).*
+
 ## Results
 
 - Lift reward term rose from 0.09 to 2.96 over 1500 iterations (training log, weighted, maximum 15).
